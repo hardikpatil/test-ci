@@ -1,3 +1,3 @@
 # test-ci
 
-[![Build C++](https://github.com/ChicoState/FirstIO/actions/workflows/actions.yml/badge.svg)](https://github.com/ChicoState/FirstIO/actions/workflows/actions.yml)
+[![First Build File](https://github.com/hardikpatil/test-ci/actions/workflows/action.yaml/badge.svg)](https://github.com/hardikpatil/test-ci/actions/workflows/action.yaml)
