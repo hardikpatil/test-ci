@@ -19,5 +19,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: First Build File
+      - name: First Build CPP File
         run: g++ main.cpp -std=c++17 -Wall -Wextra -Werror -o firstIO
